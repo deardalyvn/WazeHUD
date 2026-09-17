@@ -13,7 +13,7 @@ struct Rect {
 
 namespace layout {
 constexpr int Width = 320;
-constexpr int Height = 170;
+constexpr int Height = 240;
 constexpr Rect Maneuver{0, 0, 85, 140};
 constexpr Rect Speed{85, 0, 80, 140};
 constexpr Rect Limits{165, 0, 60, 140};
